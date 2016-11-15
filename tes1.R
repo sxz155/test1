@@ -1,7 +1,3 @@
 #add
 
-#new
 
-#newtest
-
-#test
